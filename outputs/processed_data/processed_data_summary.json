@@ -1,0 +1,22 @@
+{
+  "total_records": 507,
+  "date_range": {
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "status_breakdown": {
+    "Completed": 357,
+    "Drop Off": 132,
+    "Rejected": 7,
+    "Pending": 6,
+    "More Info": 5
+  },
+  "payment_status_breakdown": {
+    "FOC": 214,
+    "Unpaid": 149,
+    "Paid": 144
+  },
+  "total_revenue_egp": 127375.0,
+  "total_revenue_usd": 2002.45,
+  "drop_off_rate": 26.035502958579883
+}
