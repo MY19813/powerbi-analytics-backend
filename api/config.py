@@ -14,7 +14,7 @@ class Settings(BaseSettings):
         "http://localhost:3000",
         "http://localhost:3001",
         "http://127.0.0.1:3000",
-         "https://powerbi-analytics-vercel.vercel.app/",  # ← add your real Vercel URL here once you know it
+         "https://vercel.com/my19813s-projects/powerbi-analytics-vercel/EBgu1ZTbrTnNorLBHPDJQwpegzje",  # ← add your real Vercel URL here once you know it
     ]
     
     # Data paths
